@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ASMA
-- 👀 I’m interested in website development, project management
+- 👀 I’m interested in website development, project management, Problem solving.
 - 🌱 I’m currently learning Tailwind CSS, react, express.js
 - 💞️ I’m looking to collaborate with work interested team.
 - 📫 How to reach me asmafurqan786@gmail.com
